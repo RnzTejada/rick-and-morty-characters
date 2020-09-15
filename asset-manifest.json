@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty-characters/static/css/main.24ce6cb2.chunk.css",
+    "main.js": "/rick-and-morty-characters/static/js/main.e87ac4a1.chunk.js",
+    "main.js.map": "/rick-and-morty-characters/static/js/main.e87ac4a1.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-characters/static/js/runtime-main.168d6867.js",
+    "runtime-main.js.map": "/rick-and-morty-characters/static/js/runtime-main.168d6867.js.map",
+    "static/css/2.11829350.chunk.css": "/rick-and-morty-characters/static/css/2.11829350.chunk.css",
+    "static/js/2.f8a114ff.chunk.js": "/rick-and-morty-characters/static/js/2.f8a114ff.chunk.js",
+    "static/js/2.f8a114ff.chunk.js.map": "/rick-and-morty-characters/static/js/2.f8a114ff.chunk.js.map",
+    "index.html": "/rick-and-morty-characters/index.html",
+    "precache-manifest.12ff90b51d580b5ab64f4bb8bfe79b6a.js": "/rick-and-morty-characters/precache-manifest.12ff90b51d580b5ab64f4bb8bfe79b6a.js",
+    "service-worker.js": "/rick-and-morty-characters/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/rick-and-morty-characters/static/css/2.11829350.chunk.css.map",
+    "static/css/main.24ce6cb2.chunk.css.map": "/rick-and-morty-characters/static/css/main.24ce6cb2.chunk.css.map",
+    "static/js/2.f8a114ff.chunk.js.LICENSE.txt": "/rick-and-morty-characters/static/js/2.f8a114ff.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/rick-and-morty-characters/static/media/logo.42d6efdb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.168d6867.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.f8a114ff.chunk.js",
+    "static/css/main.24ce6cb2.chunk.css",
+    "static/js/main.e87ac4a1.chunk.js"
+  ]
+}
