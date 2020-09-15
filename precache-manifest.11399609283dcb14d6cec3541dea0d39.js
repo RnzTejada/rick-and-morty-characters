@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15b5fe46ba837031c53587e8e2cfdb88",
+    "revision": "6f5570ce0f8cf80494882006cd6ce676",
     "url": "/rick-and-morty-characters/index.html"
   },
   {
